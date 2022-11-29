@@ -1,0 +1,258 @@
+<VAST version="3.0">		
+	<Ad>
+		<Wrapper>
+			<AdSystem>Buzoola</AdSystem>
+			<VASTAdTagURI>
+				<![CDATA[https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5G0ZElA1hbyIojl88PBBOEc7QP3A9NbgdQ/jsvpaid]]>
+			</VASTAdTagURI>
+			<Impression>
+				<![CDATA[https://testwest.xyz/v/impression?pp=buzoola]]>
+			</Impression>
+			<Error>
+				<![CDATA[ https://testwest.xyz/v/error?pp=buzoola ]]>
+			</Error>
+			<Extensions>
+				<Extension>
+					<ShowNext>yes</ShowNext>
+					<WaitTime>20</WaitTime>
+					<SystemName>Buzoola</SystemName>
+				</Extension>
+			</Extensions>
+		</Wrapper>
+	</Ad>
+	<Ad>
+		<Wrapper>
+			<AdSystem>AdsPro</AdSystem>
+			<VASTAdTagURI>
+				<![CDATA[https://xcec.ru/vpaids/vpaid50BTest.php?id=1810]]>
+			</VASTAdTagURI>
+			<Impression>
+				<![CDATA[https://testwest.xyz/v/impression?pp=buzoola]]>
+			</Impression>
+			<Error>
+				<![CDATA[ https://testwest.xyz/v/error?pp=buzoola ]]>
+			</Error>
+			<Extensions>
+				<Extension>
+					<WaitTime>20</WaitTime>
+					<SystemName>AdsPro</SystemName>
+					<ShowNext>yes</ShowNext>
+				</Extension>
+			</Extensions>
+		</Wrapper>
+	</Ad>		
+	<Ad>
+		<Wrapper>
+			<AdSystem>Viboom</AdSystem>
+			<VASTAdTagURI>
+				<![CDATA[https://vidalak.com/api/vpaid?platformId=120798&format=3&sig=22d8ad72efcd2291]]>
+			</VASTAdTagURI>
+			<Impression>
+				<![CDATA[https://testwest.xyz/v/impression?pp=buzoola]]>
+			</Impression>
+			<Error>
+				<![CDATA[ https://testwest.xyz/v/error?pp=buzoola ]]>
+			</Error>
+			<Extensions>
+				<Extension>
+					<WaitTime>3</WaitTime>
+					<SystemName>Viboom</SystemName>
+				</Extension>
+			</Extensions>
+		</Wrapper>
+	</Ad>
+	<Ad>
+		<Wrapper>
+			<AdSystem>Test vast 1</AdSystem>
+			<VASTAdTagURI>
+				<![CDATA[https://testwest.xyz/vast2.xml]]>
+			</VASTAdTagURI>
+			<Impression>
+				<![CDATA[https://testwest.xyz/v/impression?pp=buzoola]]>
+			</Impression>
+			<Error>
+				<![CDATA[ https://testwest.xyz/v/error?pp=buzoola ]]>
+			</Error>
+			<Extensions>
+				<Extension>
+					<WaitTime>20</WaitTime>
+					<SystemName>Test vast 1</SystemName>
+					<ShowNext>yes</ShowNext>
+				</Extension>
+			</Extensions>
+		</Wrapper>
+	</Ad>
+	<!--Ad>
+		<Wrapper>
+			<AdSystem>Viboom</AdSystem>
+			<VASTAdTagURI>
+				<![CDATA[https://vidalak.com/api/vpaid?platformId=120798&format=3&sig=22d8ad72efcd2291]]>
+			</VASTAdTagURI>
+			<Impression>
+				<![CDATA[https://testwest.xyz/v/impression?pp=buzoola]]>
+			</Impression>
+			<Error>
+				<![CDATA[ https://testwest.xyz/v/error?pp=buzoola ]]>
+			</Error>
+			<Extensions>
+				<Extension>
+					<WaitTime>20</WaitTime>
+					<SystemName>Viboom</SystemName>
+					<ShowNext>yes</ShowNext>
+				</Extension>
+			</Extensions>
+		</Wrapper>
+	</Ad-->	
+	<!--Ad>
+		<Wrapper>
+			<AdSystem>Test vast 3</AdSystem>
+			<VASTAdTagURI>
+				<![CDATA[https://testwest.xyz/vast.xml]]>
+			</VASTAdTagURI>
+			<Impression>
+				<![CDATA[https://testwest.xyz/v/impression?pp=buzoola]]>
+			</Impression>
+			<Error>
+				<![CDATA[ https://testwest.xyz/v/error?pp=buzoola ]]>
+			</Error>
+			<Extensions>
+				<Extension>
+					<WaitTime>20</WaitTime>
+					<Replay>1</Replay>
+					<SystemName>Test vast 3</SystemName>
+				</Extension>
+			</Extensions>
+		</Wrapper>
+	</Ad>	
+
+	<Ad>
+		<Wrapper>
+			<AdSystem>Test vast 2</AdSystem>
+			<VASTAdTagURI>
+				<![CDATA[https://testwest.xyz/vast3.xml]]>
+			</VASTAdTagURI>
+			<Impression>
+				<![CDATA[https://testwest.xyz/v/impression?pp=buzoola]]>
+			</Impression>
+			<Error>
+				<![CDATA[ https://testwest.xyz/v/error?pp=buzoola ]]>
+			</Error>
+			<Extensions>
+				<Extension>
+					<WaitTime>20</WaitTime>
+					<SystemName>Test vast 2</SystemName>
+					<ShowNext>yes</ShowNext>
+				</Extension>
+			</Extensions>
+		</Wrapper>
+	</Ad>		
+	<Ad>
+		<Wrapper>
+			<AdSystem>Buzoola2</AdSystem>
+			<VASTAdTagURI>
+				<![CDATA[https://exchange.buzzoola.com/adv/kbDH64c7yFY_jqB7YcKn5G0ZElA1hbyIojl88PBBOEc7QP3A9NbgdQ/jsvpaid]]>
+			</VASTAdTagURI>
+			<Impression>
+				<![CDATA[https://testwest.xyz/v/impression?pp=buzoola]]>
+			</Impression>
+			<Error>
+				<![CDATA[ https://testwest.xyz/v/error?pp=buzoola ]]>
+			</Error>
+			<Extensions>
+				<Extension>
+					<Replay>2</Replay>
+					<ShowNext>yes</ShowNext>
+					<WaitTime>100</WaitTime>
+					<SystemName>Buzoola2</SystemName>
+				</Extension>
+			</Extensions>
+		</Wrapper>
+	</Ad-->	
+	<!--Ad>
+		<Wrapper>
+			<AdSystem>Kost TV</AdSystem>
+			<VASTAdTagURI>
+				<![CDATA[https://v.kost.tv/v/O23tPm-RQ4ThWOmwGRLBo2JyMegbhJfIjRnM_D47rLA]]>
+			</VASTAdTagURI>
+			<Impression>
+				<![CDATA[https://testwest.xyz/v/impression?pp=buzoola]]>
+			</Impression>
+			<Error>
+				<![CDATA[ https://testwest.xyz/v/error?pp=buzoola ]]>
+			</Error>
+			<Extensions>
+				<Extension>
+					<WaitTime>10</WaitTime>
+					<SystemName>Kost TV</SystemName>
+				</Extension>
+			</Extensions>
+		</Wrapper>
+	</Ad-->	
+	<!--Ad>
+		<Wrapper>
+			<AdSystem>Test vast 1</AdSystem>
+			<VASTAdTagURI>
+				<![CDATA[https://testwest.xyz/vast.xml]]>
+			</VASTAdTagURI>
+			<Impression>
+				<![CDATA[https://testwest.xyz/v/impression?pp=buzoola]]>
+			</Impression>
+			<Error>
+				<![CDATA[ https://testwest.xyz/v/error?pp=buzoola ]]>
+			</Error>
+			<Extensions>
+				<Extension>
+					<WaitTime>20</WaitTime>
+					<SystemName>Test vast 1</SystemName>
+				</Extension>
+			</Extensions>
+		</Wrapper>
+	</Ad>
+	<Ad>
+		<Wrapper>
+			<AdSystem>Test vast 2</AdSystem>
+			<VASTAdTagURI>
+				<![CDATA[https://testwest.xyz/vast2.xml]]>
+			</VASTAdTagURI>
+			<Impression>
+				<![CDATA[https://testwest.xyz/v/impression?pp=buzoola]]>
+			</Impression>
+			<Error>
+				<![CDATA[ https://testwest.xyz/v/error?pp=buzoola ]]>
+			</Error>
+			<Extensions>
+				<Extension>
+					<WaitTime>20</WaitTime>
+					<SystemName>Test vast 2</SystemName>
+				</Extension>
+			</Extensions>
+		</Wrapper>
+	</Ad-->	
+</VAST>
+
+
+
+<!-- Запускается до вызова adStart
+
+
+	<Ad>
+		<Wrapper>
+			<AdSystem>AD look</AdSystem>
+			<VASTAdTagURI>
+				<![CDATA[https://ads.adlook.me/vast?id=5908]]>
+			</VASTAdTagURI>
+			<Impression>
+				<![CDATA[https://testwest.xyz/v/impression?pp=buzoola]]>
+			</Impression>
+			<Error>
+				<![CDATA[ https://testwest.xyz/v/error?pp=buzoola ]]>
+			</Error>
+			<Extensions>
+				<Extension>
+					<WaitTime>20</WaitTime>
+					<SystemName>AD look</SystemName>
+				</Extension>
+			</Extensions>
+		</Wrapper>
+	</Ad>	
+-->
