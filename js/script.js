@@ -2,7 +2,7 @@ var respons = {
 	winState: "",
 	smallMedium: false,
 	mediumLarge: false,
-	sw: 0,
+	sw: 1,
 	scrollW: 0,
 	large: 1000,
 	medium: 640,
